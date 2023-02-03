@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.app {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 0 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.app header {
+  margin-bottom: 20px;
+}
+
+.draw-area {
+  /* border: 2px solid black; */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+.app body{
+  display: flex;
+  flex-flow: column;
+}
+
+.app .work-area{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bit-map {
+  border: 1px solid red !important;
+}
+
+.app .konvajs-content canvas {
+   margin: 0;
+  border: 1px solid red !important;
+}
+
+.predicted {
+  margin-left: 70px;
+  border: 1px solid red !important;
+}
+
+.clean-bt {
+  background-color: rgb(0, 183, 255);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons > * {
+  transition: background-color 0.2s ease-out;
+  padding: 8px;
+  border-radius: 7px;
+  max-width: fit-content;
+  font-weight: bolder;
+  color: white;
+  margin: 0 5px;
+}
+
+.buttons > *:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
