@@ -1,4 +1,3 @@
-import { log } from "@tensorflow/tfjs";
 import React, { useEffect, useRef, useState } from "react";
 import { render } from "react-dom";
 import { Stage, Layer, Line, Text } from "react-konva";
