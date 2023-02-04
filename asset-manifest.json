@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hand-written-detection/static/css/main.ee3b7e3c.css",
+    "main.js": "/hand-written-detection/static/js/main.38554d24.js",
+    "static/js/787.063ae8dc.chunk.js": "/hand-written-detection/static/js/787.063ae8dc.chunk.js",
+    "index.html": "/hand-written-detection/index.html",
+    "main.ee3b7e3c.css.map": "/hand-written-detection/static/css/main.ee3b7e3c.css.map",
+    "main.38554d24.js.map": "/hand-written-detection/static/js/main.38554d24.js.map",
+    "787.063ae8dc.chunk.js.map": "/hand-written-detection/static/js/787.063ae8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3b7e3c.css",
+    "static/js/main.38554d24.js"
+  ]
+}
