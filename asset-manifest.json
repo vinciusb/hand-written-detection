@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hand-written-detection/static/css/main.ee3b7e3c.css",
-    "main.js": "/hand-written-detection/static/js/main.f239e304.js",
+    "main.js": "/hand-written-detection/static/js/main.4c842e3b.js",
     "static/js/787.063ae8dc.chunk.js": "/hand-written-detection/static/js/787.063ae8dc.chunk.js",
     "index.html": "/hand-written-detection/index.html",
     "main.ee3b7e3c.css.map": "/hand-written-detection/static/css/main.ee3b7e3c.css.map",
-    "main.f239e304.js.map": "/hand-written-detection/static/js/main.f239e304.js.map",
+    "main.4c842e3b.js.map": "/hand-written-detection/static/js/main.4c842e3b.js.map",
     "787.063ae8dc.chunk.js.map": "/hand-written-detection/static/js/787.063ae8dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee3b7e3c.css",
-    "static/js/main.f239e304.js"
+    "static/js/main.4c842e3b.js"
   ]
 }
